@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "cli": {
+    "packageManager": "yarn",
+    "analytics": "5024d472-b22b-4bb4-b7ab-fa3a6bdfdc67"
+  }
+}
